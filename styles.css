@@ -1,0 +1,30 @@
+* {
+    color: #f7dc6f;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-content: center;
+}
+h1,h2, h3, h4, h5{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+.first {
+    text-align: center;
+}
+hr{
+    width: 10%;
+    color: #34a853;
+    border: 5px dotted;
+    border-width: 50%;
+    border-top: 0;
+   
+    
+}
